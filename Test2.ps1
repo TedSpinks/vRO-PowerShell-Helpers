@@ -1,0 +1,1 @@
+write-output "Script test2.ps1 is running, the global variable from test1.ps1 was: $date"
